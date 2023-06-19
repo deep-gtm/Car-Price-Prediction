@@ -2,9 +2,9 @@
 Second hand car price prediction using Neural Network.
 
 ## Skills I Learned In This Project :
-1. Pandas to read csv(comma seperated values)
+1. Pandas, numpy.
 2. sns module for visualization.
-3. Tensors
+3. Tensors.
 4. Building Sequential Neural Network using tensorflows
 
 #### How Features Are related to each othter
